@@ -3,3 +3,4 @@ function sum(a,b){
 }
 
 return sum(1,2)
+console.log("summed!")
